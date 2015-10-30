@@ -1,3 +1,9 @@
+openmediavault-shellinabox (1.2) testing; urgency=low
+
+  * Increase minimum dependency for shellinabox package 
+
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Fri, 30 Oct 2015 08:39:28 -0400
+
 openmediavault-shellinabox (1.1) testing; urgency=low
 
   * Fix buttons
@@ -66,6 +72,3 @@ openmediavault-shellinabox (0.1.1) testing; urgency=low
 openmediavault-shellinabox (0.1.0) testing; urgency=low
 
   * initial release
-
- -- Mitchell Taylor <mitchtaydev@gmail.com>  Wed, 16 Oct 2013 10:34:00 +1200
-
